@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2197</dc:source>
 		<dc:source>https://archive.org/details/poorfolkgambler00dost</dc:source>
-		<meta property="se:word-count">60986</meta>
+		<meta property="se:word-count">60760</meta>
 		<meta property="se:reading-ease.flesch">71.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Gambler_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_the-gambler_c-j-hogarth</meta>
