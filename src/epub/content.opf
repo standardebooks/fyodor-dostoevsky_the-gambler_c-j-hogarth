@@ -66,15 +66,16 @@
 		<link href="https://github.com/standardebooks/fyodor-dostoevsky_the-gambler_c-j-hogarth" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
 		<meta property="file-as" refines="#author">Dostoevsky, Fyodor</meta>
-		<meta property="alternate-script" refines="#author">Фёдор Миха́йлович Достое́вский</meta>
+		<meta property="alternate-script" refines="#author">Фёдор Михайлович Достоевский</meta>
 		<meta property="schema:alternateName" refines="#author">Fyodor Mikhailovich Dostoevsky</meta>
 		<link href="https://en.wikipedia.org/wiki/Fyodor_Dostoevsky" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79029930.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">C. J. Hogarth</dc:contributor>
 		<meta property="file-as" refines="#translator">Hogarth, C. J.</meta>
-		<link href="https://id.loc.gov/authorities/names/n79089945.html" refines="#translator" rel="schema:sameAs"/>
+		<meta property="schema:alternateName" refines="#translator">Charles James Hogarth</meta>
 		<link href="https://en.wikipedia.org/wiki/C._J._Hogarth" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79089945.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edvard Munch</dc:contributor>
